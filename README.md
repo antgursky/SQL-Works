@@ -27,7 +27,7 @@
 - Port: `6432`
 - Database: `demo`
 - User: `student`
-- Пароль: выдаётся преподавателем по запросу
+- Пароль: по запросу
 
 ### Подключение через psql
     psql \
@@ -48,4 +48,4 @@
 - **Оконные функции** — вычисления по окнам строк (`LAG`, `LEAD`, `RANK`).  
 
 ## Стек
-PostgreSQL · DBeaver / pgAdmin / psql · Python (pandas, psycopg2)
+PostgreSQL · DBeaver / pgAdmin / psql · Python (pandas, sqlalchemy)
