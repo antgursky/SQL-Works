@@ -41,11 +41,5 @@
 2. Ввести параметры (Host, Port, Database, User, Password).  
 3. В разделе **SSL** выбрать режим **Require**.  
 
-## Мини-глоссарий
-- **DDL** — описание данных (`CREATE / ALTER / DROP`).  
-- **DML** — манипуляции с данными (`SELECT / INSERT / UPDATE / DELETE`).  
-- **VIEW** — сохранённый запрос, «виртуальная таблица» для аналитики.  
-- **Оконные функции** — вычисления по окнам строк (`LAG`, `LEAD`, `RANK`).  
-
 ## Стек
 PostgreSQL · DBeaver / pgAdmin / psql · Python (pandas, sqlalchemy)
